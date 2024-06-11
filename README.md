@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm a Graduate Student at Northeastern Illinois University</h1>
+<h1 align="center">Hi 👋, I'm Mohammed Abdul Mannan</h1>
 <h3 align="center">A passionate Java Programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-mannan-92&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-mannan-92" /> </p>
 
-- 🌱 I’m currently learning **Data Structures & Algorithms**
+- 🌱 I’m currently pursuing my Masters from **Northeastern Illinois University**
 
 - 👯 I’m looking to collaborate on **open source**
 
