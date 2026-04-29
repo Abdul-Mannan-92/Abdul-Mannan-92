@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mohammed Abdul Mannan</h1>
-<h3 align="center">A passionate Java Programmer from USA</h3>
+<h3 align="center">Software Engineer | Java Developer based in the USA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-mannan-92&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-mannan-92" /> </p>
 
-- 🌱 I’m currently pursuing my Masters from **Northeastern Illinois University**
+- 🎓 I recently graduated with a Master's in Computer Science from **Northeastern Illinois University**
 
-- 👯 I’m looking to collaborate on **open source**
+- 💻 I’m currently working as a **Software Engineer**, focusing on Java and backend development
 
-- 💬 Ask me about **Java, Front-end**
+- 👯 I’m looking to collaborate on **open source projects**
+
+- 💬 Ask me about **Java, Backend Development, and Front-end**
 
 - 📫 How to reach me **amannan02611@gmail.com**
 
